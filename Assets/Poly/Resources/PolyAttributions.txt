@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Cloud
+Author: Poly by Google
+URL: https://poly.google.com/view/44cGXp6_8WD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cloud
+Author: Poly by Google
+URL: https://poly.google.com/view/aQl2tRgDupm
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Laptop
+Author: Poly by Google
+URL: https://poly.google.com/view/6eBS-C3E33W
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lightning bolt
+Author: Poly by Google
+URL: https://poly.google.com/view/7IBFbOFdkcp
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Safe
+Author: Jarlan Perez
+URL: https://poly.google.com/view/9AVWj_KWsAG
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
